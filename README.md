@@ -21,4 +21,4 @@ This project demonstrates an end-to-end machine learning pipeline using Python a
    ```bash
    pip install -r requirements.txt
 
-python cancer_classifier.py
+1. python cancer_classifier.py
